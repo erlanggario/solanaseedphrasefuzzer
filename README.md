@@ -1,1 +1,1 @@
-# solanaseedphrasefuzzer
+# Solana Seedphrase Fuzzer (COMING SOON)
